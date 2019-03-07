@@ -6,7 +6,7 @@ A collection of Microsoft IPs used for spying in Windows 10, collected from mult
 
 # Licence : 
 
-(Public Domain)[https://gitlab.com/TheFrenchGhosty/microsoft-spying-domain-names-collection/blob/master/LICENSE)
+[Public Domain](https://gitlab.com/TheFrenchGhosty/microsoft-spying-domain-names-collection/blob/master/LICENSE)
 
 You are free to do anything you want with this list, if you do please tell me, I'm might be interested.
 
