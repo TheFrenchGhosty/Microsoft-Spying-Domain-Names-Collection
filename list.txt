@@ -1,6 +1,6 @@
 # Microsoft Spying Domain Names Collection
 # Collected from multiples tools October 07, 2018
-# https://gitlab.com/TheFrenchGhosty/microsoft-spying-domain-names-collection
+# https://gitlab.com/TheFrenchGhosty/Microsoft-Spying-Domain-Names-Collection
 
 a-0001.a-msedge.net
 a-0001.dc-msedge.net
